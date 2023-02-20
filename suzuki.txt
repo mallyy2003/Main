@@ -1,0 +1,11 @@
+<html>
+    <head>
+       <center> <font size="10"><b>KAWASAKI</b></font> </center>
+	   <br><br>
+    </head>
+    <title>Kawasaki</title>
+<body bgcolor="#FADBD8">
+
+    <center><img src="kawasaki.jpg" height="500" width="700"></center> 
+</body>
+</html>
